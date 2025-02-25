@@ -1,1 +1,1 @@
-# Personal-portfolio-website-using-Django
+# portfolio-website-using-python-django
